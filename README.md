@@ -10,4 +10,4 @@
 * 실행 설정은 [이곳]()에서 확인할 수 있습니다.
 
 # List of Problems
-* 문제 1
+* [문제 1](problem/prob1_same_prob) - N개의 이벤트를 모두 발생시키기
