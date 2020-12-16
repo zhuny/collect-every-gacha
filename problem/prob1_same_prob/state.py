@@ -1,13 +1,13 @@
 import collections
 from dataclasses import dataclass
+from decimal import Decimal
 from fractions import Fraction
-from numbers import Number
 from typing import List
 
 NumberType = (
     float,
     Fraction,
-    Number
+    Decimal
 )
 
 
