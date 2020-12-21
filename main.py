@@ -64,7 +64,8 @@ def build_parser():
 
             problem_parser.add_argument(
                 f'--{var_name}',
-                type=annotation[var_name]
+                type=annotation[var_name],
+                required=True
             )
 
     return parser
